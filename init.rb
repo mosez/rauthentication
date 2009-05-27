@@ -1,1 +1,1 @@
-require "rauthentication"
+require File.dirname(__FILE__) + "/lib/rauthentication"
