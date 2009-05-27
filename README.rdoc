@@ -1,0 +1,3 @@
+= Authentication plugin
+
+This plugin provides a way to add authentication to Rails.
